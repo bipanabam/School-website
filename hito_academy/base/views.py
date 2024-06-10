@@ -3,8 +3,8 @@ from django.views.generic import TemplateView
 
 import smtplib
 
-MY_EMAIL = "bipanabam147@gmail.com"
-MY_PASSWORD = "vfejuqbcobucmvbs"
+MY_EMAIL = "your-email"
+MY_PASSWORD = "email-password"
 
 
 # Create your views here.
